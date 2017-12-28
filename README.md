@@ -1,13 +1,17 @@
 # PTT_Gossiping_Latest_Article
-Line Bot 推送PTT八卦版最新一篇文章
+檔案說明 :
 
-基本操作:
+* runtime.txt : 要使用的語言
+* requirements.txt : 要安裝的package
+* Procfile : 告訴Heroku你要的服務是甚麼
+* gossiping.py : 主程式
 
-* user打指令:Gossiping
-* bot推送:PTT八卦版最新一篇文章
+基本操作 :
 
-參考資料:
+* user打指令 : Gossiping
+* bot推送 : PTT八卦版最新一篇文章
 
-* 對於Heroku的問題，這篇有很完整的教學:[twtrubiks](https://github.com/twtrubiks/Deploying-Flask-To-Heroku)
+參考資料 :
 
-* line官方:[line](https://github.com/line/line-bot-sdk-python)
+* 對於Heroku的問題，這篇有很完整的教學 : [twtrubiks](https://github.com/twtrubiks/Deploying-Flask-To-Heroku)
+* line官方 : [line](https://github.com/line/line-bot-sdk-python)
